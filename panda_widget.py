@@ -1,3 +1,7 @@
+"""
+Объединение panda3d и PySide6 (библиотека для создания GUI)
+"""
+
 from QPanda3D.Panda3DWorld import Panda3DWorld
 from QPanda3D.QPanda3DWidget import QPanda3DWidget
 
